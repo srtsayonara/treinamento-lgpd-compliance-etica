@@ -16,10 +16,9 @@ O objetivo foi capacitar a equipe (especialmente o setor de captação de leads)
 O treinamento foi estruturado em slides, focando na clareza para colaboradores de diferentes áreas.
 
 ### Visualização dos Slides:
-*(Substitua os nomes abaixo pelos nomes exatos dos arquivos que você subiu)*
 
-![Slide 1](Slide1.jpg)
-![Slide 2](Slide2.jpg)
+![Slide 1](slides_do_projeto_page-0001[1].jpg)
+![Slide 2](Slides_do_projeto_page-0002[1].jpg)
 
 ## 📊 Metodologia e Resultados
 * **Interatividade:** Slides com perguntas e respostas para fixação.
