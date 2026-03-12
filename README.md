@@ -18,7 +18,8 @@ O treinamento foi estruturado em slides, focando na clareza para colaboradores d
 ### Visualização dos Slides:
 
 ![Slide 1](slides_do_projeto_page-0001[1].jpg)
-![Slide 2](Slides_do_projeto_page-0002[1].jpg)
+
+![Slide 2](slides_do_projeto_page-0002[1].jpg)
 
 ## 📊 Metodologia e Resultados
 * **Interatividade:** Slides com perguntas e respostas para fixação.
