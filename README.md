@@ -17,40 +17,19 @@ O treinamento foi estruturado em slides, focando na clareza para colaboradores d
 
 ### Visualização dos Slides:
 ### 📸 Material Completo do Treinamento
-
-<p align="center">
-  <img src="slides_do_projeto_page-0001[1].jpg" width="45%" />
-  <img src="slides_do_projeto_page-0002[1].jpg" width="45%" />
-</p>
-
-<p align="center">
-  <img src="slides_do_projeto_page-0003[1].jpg" width="45%" />
-  <img src="slides_do_projeto_page-0004[1].jpg" width="45%" />
-</p>
-
-<p align="center">
-  <img src="slides_do_projeto_page-0005[1].jpg" width="45%" />
-  <img src="slides_do_projeto_page-0006[1].jpg" width="45%" />
-</p>
-
-<p align="center">
-  <img src="slides_do_projeto_page-0007[1].jpg" width="45%" />
-  <img src="slides_do_projeto_page-0008[1].jpg" width="45%" />
-</p>
-
-<p align="center">
-  <img src="slides_do_projeto_page-0009[1].jpg" width="45%" />
-  <img src="slides_do_projeto_page-0010[1].jpg" width="45%" />
-</p>
-
-<p align="center">
-  <img src="slides_do_projeto_page-0011[1].jpg" width="45%" />
-  <img src="slides_do_projeto_page-0012[1].jpg" width="45%" />
-</p>
-
-<p align="center">
-  <img src="slides_do_projeto_page-0013[1].jpg" width="45%" />
-</p>
+![Slide 01](slides_do_projeto_page-0001[1].jpg)
+![Slide 02](slides_do_projeto_page-0002[1].jpg)
+![Slide 03](slides_do_projeto_page-0003[1].jpg)
+![Slide 04](slides_do_projeto_page-0004[1].jpg)
+![Slide 05](slides_do_projeto_page-0005[1].jpg)
+![Slide 06](slides_do_projeto_page-0006[1].jpg)
+![Slide 07](slides_do_projeto_page-0007[1].jpg)
+![Slide 08](slides_do_projeto_page-0008[1].jpg)
+![Slide 09](slides_do_projeto_page-0009[1].jpg)
+![Slide 10](slides_do_projeto_page-0010[1].jpg)
+![Slide 11](slides_do_projeto_page-0011[1].jpg)
+![Slide 12](slides_do_projeto_page-0012[1].jpg)
+![Slide 13](slides_do_projeto_page-0013[1].jpg)
 
 
 ## 📊 Metodologia e Resultados
