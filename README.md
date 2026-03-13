@@ -48,6 +48,9 @@ O treinamento foi estruturado em slides, focando na clareza para colaboradores d
   <img src="slides_do_projeto_page-0012[1].jpg" width="45%" />
 </p>
 
+<p align="center">
+  <img src="slides_do_projeto_page-0013[1].jpg" width="45%" />
+</p>
 
 
 ## 📊 Metodologia e Resultados
