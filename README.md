@@ -16,10 +16,41 @@ O objetivo foi capacitar a equipe (especialmente o setor de captação de leads)
 O treinamento foi estruturado em slides, focando na clareza para colaboradores de diferentes áreas.
 
 ### Visualização dos Slides:
+### 📸 Material Completo do Treinamento
 
-![Slide 1](slides_do_projeto_page-0001[1].jpg)
+<p align="center">
+  <img src="slide_do_projeto_page-0001[1].jpj" width="45%" />
+  <img src="slide_do_projeto_page-0002[1].jpj" width="45%" />
+</p>
 
-![Slide 2](slides_do_projeto_page-0002[1].jpg)
+<p align="center">
+  <img src="slide_do_projeto_page-0003[1].jpj" width="45%" />
+  <img src="slide_do_projeto_page-0004[1].jpj" width="45%" />
+</p>
+
+<p align="center">
+  <img src="slide_do_projeto_page-0005[1].jpj" width="45%" />
+  <img src="slide_do_projeto_page-0006[1].jpj" width="45%" />
+</p>
+
+<p align="center">
+  <img src="slide_do_projeto_page-0007[1].jpj" width="45%" />
+  <img src="slide_do_projeto_page-0008[1].jpj" width="45%" />
+</p>
+
+<p align="center">
+  <img src="slide_do_projeto_page-0009[1].jpj" width="45%" />
+  <img src="slide_do_projeto_page-0010[1].jpj" width="45%" />
+</p>
+
+<p align="center">
+  <img src="slide_do_projeto_page-0011[1].jpj" width="45%" />
+  <img src="slide_do_projeto_page-0012[1].jpj" width="45%" />
+</p>
+
+<p align="center">
+  <img src="slide_do_projeto_page-0013[1].jpj" width="45%" />
+</p>
 
 ## 📊 Metodologia e Resultados
 * **Interatividade:** Slides com perguntas e respostas para fixação.
