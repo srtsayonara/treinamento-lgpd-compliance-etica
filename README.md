@@ -77,3 +77,10 @@ O treinamento foi estruturado em slides, focando na clareza para colaboradores d
 * **Consciência:** Maior zelo na captação de leads (Tríade CID).
 
 > **Nota:** Nomes de empresas e dados sensíveis foram borrados para garantir o Compliance e o sigilo profissional.
+## 🧑‍💻 Autora
+
+**Carla Sayonara Freitas**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conecte--se-blue)](https://www.linkedin.com/in/carla-sayonara-freitas-33599b183/)
+[![GitHub](https://img.shields.io/badge/GitHub-Portfólio-black)](https://github.com/srtsayonara)
+
