@@ -1,5 +1,43 @@
 ![Status](https://img.shields.io/badge/Status-Concluído-green)
 
+## ⚠️ Problema Identificado
+- Compartilhamento indevido de senhas
+- Consultas sem consentimento
+- Risco à parceria estratégica
+
+## ✅ Solução Aplicada
+- Treinamento prático com slides
+- Formulário de avaliação
+- Média de aproveitamento: 4.8
+
+## 🛠️ Ferramentas Utilizadas
+- PowerPoint / Google Slides
+- Google Forms (avaliação)
+- LGPD (Lei 13.709/2018)
+
+## 🎯 Como foi Desenvolvido
+
+O projeto nasceu de uma análise prévia sobre a responsabilidade que a empresa 
+parceira tinha perante a contratante — uma grande corporação já consolidada no 
+mercado, com seu próprio compliance estruturado, que exigia o treinamento dos 
+colaboradores do parceiro.
+
+Por já ter feito parte da operação, conhecia na prática quais dados os 
+colaboradores manipulavam, quais riscos existiam e onde ocorriam as falhas mais 
+frequentes. Antes do desenvolvimento, realizei uma reunião com o gestor da 
+empresa para mapear os riscos identificados por ele.
+
+O treinamento foi aplicado via Microsoft Teams e estruturado com foco no 
+contexto real do trabalho desses colaboradores, abordando:
+
+- **Princípios da LGPD** — Finalidade, Necessidade, Adequação e Segurança
+- **Penalidades** — consequências do descumprimento da lei
+- **Ética no trabalho** — cuidado com dados internos e externos
+- **Tríade CID** — Confidencialidade, Integridade e Disponibilidade
+
+O objetivo foi mostrar a importância da LGPD de forma prática e acessível, 
+conectando a lei ao dia a dia dos colaboradores.
+
 # Treinamento: Compliance e Proteção de Dados (LGPD) na Prática
 
 Este projeto documenta o desenvolvimento e a aplicação de um treinamento focado em **Segurança da Informação e LGPD**, elaborado para mitigar riscos operacionais e fortalecer a cultura de compliance em uma empresa prestadora de serviços.
