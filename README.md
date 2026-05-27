@@ -65,9 +65,11 @@ O treinamento foi estruturado em slides, focando na clareza para colaboradores d
 
 
 ## 📊 Metodologia e Resultados
-* **Interatividade:** Slides com perguntas e respostas para fixação.
-* **Avaliação:** Aplicação de formulário de aproveitamento.
-* **Métricas:** O grupo obteve uma média de **4.8 de aproveitamento**.
+
+- **Público:** 28 colaboradores treinados
+- Interatividade: Slides com perguntas e respostas para fixação
+- Avaliação: Aplicação de formulário de aproveitamento
+- Métricas: O grupo obteve uma média de 4.8 de aproveitamento
 
 ## 📈 Evolução Observada
 * **Segurança de Acesso:** Fim do compartilhamento de senhas.
