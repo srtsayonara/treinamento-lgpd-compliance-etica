@@ -38,14 +38,6 @@ contexto real do trabalho desses colaboradores, abordando:
 O objetivo foi mostrar a importância da LGPD de forma prática e acessível, 
 conectando a lei ao dia a dia dos colaboradores.
 
-# Treinamento: Compliance e Proteção de Dados (LGPD) na Prática
-
-Este projeto documenta o desenvolvimento e a aplicação de um treinamento focado em **Segurança da Informação e LGPD**, elaborado para mitigar riscos operacionais e fortalecer a cultura de compliance em uma empresa prestadora de serviços.
-
-## 📌 Contexto e Objetivo
-A empresa em questão atua como parceira de uma grande corporação nacional. Identificou-se que qualquer falha na manipulação de dados poderia comprometer essa parceria estratégica.
-
-O objetivo foi capacitar a equipe (especialmente o setor de captação de leads) para entender que o cuidado com os dados é um pilar ético e um diferencial competitivo.
 
 ## 📚 Embasamento Teórico
 * **PUCRS:** Curso de Extensão em Compliance e Proteção de Dados.
