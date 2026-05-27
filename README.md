@@ -1,3 +1,5 @@
+![Status](https://img.shields.io/badge/Status-Concluído-green)
+
 # Treinamento: Compliance e Proteção de Dados (LGPD) na Prática
 
 Este projeto documenta o desenvolvimento e a aplicação de um treinamento focado em **Segurança da Informação e LGPD**, elaborado para mitigar riscos operacionais e fortalecer a cultura de compliance em uma empresa prestadora de serviços.
